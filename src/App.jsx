@@ -11,7 +11,7 @@ class App extends Component {
         key={cat.id}
         octCatLink={cat.octCatLink}
         octCatImg={cat.octCatImg}
-        octCatName={cat.octCatName}
+        octCatAltName={cat.octCatName}
         octCatNumber={cat.octCatNumber}
         octCatTitle={cat.octCatTitle}
         octCatLink={cat.octCatLink}

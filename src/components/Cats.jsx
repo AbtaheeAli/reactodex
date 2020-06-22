@@ -11,7 +11,7 @@ export class Cats extends React.Component {
                 src={this.props.octCatImg}
                 height="400"
                 width="400"
-                alt={this.props.octCatName}
+                alt={this.props.octCatAltName}
               />
             </a>
             <div className="cat-info">
