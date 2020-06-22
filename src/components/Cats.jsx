@@ -6,25 +6,21 @@ export class Cats extends React.Component {
       <main>
         <section className="cats">
           <article className="cat">
-            <a className="content-image" href={this.props.octiCatLink}>
+            <a className="content-image" href={this.props.octCatLink}>
               <img
-                src={this.props.octiCatImg}
-                alt={this.props.catName}
+                src={this.props.octCatImg}
                 height="400"
                 width="400"
+                alt={this.props.octCatName}
               />
             </a>
             <div className="cat-info">
               <ul>
                 <li>
-                  <p className="info-number">
-                    {this.props.info}
-                    #149:
-                    <a className="title">
-                      {this.props.catTitle}
-                      href={this.props.octiCatLink}
-                    </a>
-                  </p>
+                  #{this.props.octNumber}
+                  <a className="title" href={this.props.octCatLink}>
+                    {this.props.octCatTitle}
+                  </a>
                 </li>
                 <li>
                   <a href={this.props.authorLink}>
