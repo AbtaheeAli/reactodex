@@ -4,7 +4,7 @@
     "octCatLink": "https://octodex.github.com//terracottocat/",
     "octCatImg": "https://octodex.github.com/images/Terracottocat_Single.png",
     "octCatName": "Terracottocat",
-    "octNumber": "149:",
+    "octCatNumber": "149:",
     "octCatTitle": "Terracottocat",
     "octCatLink": "https://octodex.github.com//terracottocat/",
     "authorLink": "https://github.com/chubbmo",
@@ -36,7 +36,7 @@
     "altAuthorName": "User: CameronFoxly"
   },
   {
-    "id": 5,
+    "id": 4,
     "octCatLink": "https://octodex.github.com/fintechtocat/",
     "octCatImg": "https://octodex.github.com/images/Fintechtocat.png",
     "octCatName": "Fintechtocat",
@@ -48,7 +48,7 @@
     "altAuthorName": "User: Ceciliorz"
   },
   {
-    "id": 6,
+    "id": 5,
     "octCatLink": "https://octodex.github.com/brennatocat/",
     "octCatImg": "https://octodex.github.com/images/Brennatocat.png",
     "octCatName": "Brennatocat",
@@ -60,7 +60,7 @@
     "altAuthorName": "User: Johncreek"
   },
   {
-    "id": 7,
+    "id": 6,
     "octCatLink": "https://octodex.github.com/filmtocats/",
     "octCatImg": "https://octodex.github.com/images/filmtocats.png",
     "octCatName": "Filmtocats",
@@ -72,7 +72,7 @@
     "altAuthorName": "User: heyhayhay"
   },
   {
-    "id": 8,
+    "id": 7,
     "octCatLink": "https://octodex.github.com/sentrytocat/",
     "octCatImg": "https://octodex.github.com/images/Sentrytocat_octodex.jpg",
     "octCatName": "Sentrytocat",
@@ -84,7 +84,7 @@
     "altAuthorName": "User: Cameronmcefee"
   },
   {
-    "id": 9,
+    "id": 8,
     "octCatLink": "https://octodex.github.com/umbrellatocat/",
     "octCatImg": "https://octodex.github.com/images/puddle_jumper_octodex.jpg",
     "octCatName": "Umbrellatocat",
@@ -96,7 +96,7 @@
     "altAuthorName": "User: Rubyjazzy"
   },
   {
-    "id": 10,
+    "id": 9,
     "octCatLink": "https://octodex.github.com/boxertocat/",
     "octCatImg": "https://octodex.github.com/images/boxertocat_octodex.jpg",
     "octCatName": "Boxertocat",
@@ -108,7 +108,7 @@
     "altAuthorName": "User: Rubyjazzy"
   },
   {
-    "id": 11,
+    "id": 10,
     "octCatLink": "https://octodex.github.com/suftocat/",
     "octCatImg": "https://octodex.github.com/images/surftocat.png",
     "octCatName": "Surftocat",
@@ -120,7 +120,7 @@
     "altAuthorName": "User: Jeejkang"
   },
   {
-    "id": 12,
+    "id": 11,
     "octCatLink": "https://octodex.github.com/hulatocat/",
     "octCatImg": "https://octodex.github.com/images/hula_loop_octodex03.gif",
     "octCatName": "Hulatocat",
@@ -130,5 +130,17 @@
     "authorLink": "https://github.com/heyhayhay",
     "authorImg": "https://avatars3.githubusercontent.com/u/20049049?s=460&u=4c8f16d813bb6fe4b080b3dddb5f860bb8f3ab93&v=4",
     "altAuthorName": "User: heyhayhay"
+  },
+  {
+    "id": 12,
+    "octCatLink": "https://octodex.github.com/scubatocat/",
+    "octCatImg": "https://octodex.github.com/images/scubatocat.png",
+    "octCatName": "Scubatocat",
+    "octCatNumber": "138:",
+    "octCatTitle": "Scubatocat",
+    "octCatLink": "https://octodex.github.com/scubatocat/",
+    "authorLink": "https://github.com/cameronfoxly",
+    "authorImg": "https://avatars1.githubusercontent.com/u/19292210?s=400&u=80cd8a15836c3fc23c2efc60c43299e34aa77b3e&v=4",
+    "altAuthorName": "User: CameronFoxly"
   }
 ]
