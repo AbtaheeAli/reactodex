@@ -60,11 +60,12 @@ ul {
   padding-top: 0.9rem;
 }
 
-li+li {
+li + li {
   margin-left: 1rem;
 }
 
-a:link, a:visited {
+a:link,
+a:visited {
   text-decoration: none;
   color: rgb(37, 41, 46);
 }
