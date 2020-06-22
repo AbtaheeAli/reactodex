@@ -17,7 +17,7 @@ export class Cats extends React.Component {
             <div className="cat-info">
               <ul>
                 <li>
-                  #{this.props.octNumber}
+                  #{this.props.octCatNumber}
                   <a className="title" href={this.props.octCatLink}>
                     {this.props.octCatTitle}
                   </a>
