@@ -2,7 +2,7 @@
   {
     "id": 1,
     "octCatLink": "https://octodex.github.com//terracottocat/",
-    "octCatimg": "https://octodex.github.com/images/Terracottocat_Single.png",
+    "octCatImg": "https://octodex.github.com/images/Terracottocat_Single.png",
     "octCatName": "Terracottocat",
     "octNumber": "149:",
     "octCatTitle": "Terracottocat",
@@ -10,5 +10,89 @@
     "authorLink": "https://github.com/chubbmo",
     "authorImg": "https://github.com/chubbmo.png",
     "altAuthorName": "User: Chubbmo"
+  },
+  {
+    "id": 2,
+    "octCatLink": "https://octodex.github.com/octogatos/",
+    "octCatImg": "https://octodex.github.com/images/Octogatos.png",
+    "octCatName": "Octogatos",
+    "octCatNumber": "148:",
+    "octCatTitle": "Octogatos",
+    "octCatLink": "https://octodex.github.com/octogatos/",
+    "authorLink": "https://github.com/cameronfoxly",
+    "authorImg": "https://avatars1.githubusercontent.com/u/19292210?s=400&u=80cd8a15836c3fc23c2efc60c43299e34aa77b3e&v=4",
+    "altAuthorName": "User: CameronFoxly"
+  },
+  {
+    "id": 3,
+    "octCatLink": "https://octodex.github.com/adacats/",
+    "octCatImg": "https://octodex.github.com/images/Adacats.png",
+    "octCatName": "Adacats",
+    "octCatNumber": "147:",
+    "octCatTitle": "Adacats",
+    "octCatLink": "https://octodex.github.com/adacats/",
+    "authorLink": "https://github.com/cameronfoxly",
+    "authorImg": "https://avatars1.githubusercontent.com/u/19292210?s=400&u=80cd8a15836c3fc23c2efc60c43299e34aa77b3e&v=4",
+    "altAuthorName": "User: CameronFoxly"
+  },
+  {
+    "id": 5,
+    "octCatLink": "https://octodex.github.com/fintechtocat/",
+    "octCatImg": "https://octodex.github.com/images/Fintechtocat.png",
+    "octCatName": "Fintechtocat",
+    "octCatNumber": "146:",
+    "octCatTitle": "Fintechtocat",
+    "octCatLink": "https://octodex.github.com/fintechtocat/",
+    "authorLink": "https://github.com/ceciliorz",
+    "authorImg": "https://avatars0.githubusercontent.com/u/29592817?s=400&u=fd364426e0ae59260c08d37e76979b9e458b913b&v=4",
+    "altAuthorName": "User: Ceciliorz"
+  },
+  {
+    "id": 6,
+    "octCatLink": "https://octodex.github.com/brennatocat/",
+    "octCatImg": "https://octodex.github.com/images/Brennatocat.png",
+    "octCatName": "Brennatocat",
+    "octCatNumber": "145:",
+    "octCatTitle": "Brennatocat",
+    "octCatLink": "https://octodex.github.com/brennatocat/",
+    "authorLink": "https://github.com/johncreek",
+    "authorImg": "https://avatars2.githubusercontent.com/u/4226949?s=400&u=0e699a76cab6aab695f1d47a4ace5835bd9cc667&v=4",
+    "altAuthorName": "User: Johncreek"
+  },
+  {
+    "id": 7,
+    "octCatLink": "https://octodex.github.com/filmtocats/",
+    "octCatImg": "https://octodex.github.com/images/filmtocats.png",
+    "octCatName": "Filmtocats",
+    "octCatNumber": "144:",
+    "octCatTitle": "Filmtocats",
+    "octCatLink": "https://octodex.github.com/filmtocats/",
+    "authorLink": "https://github.com/heyhayhay",
+    "authorImg": "https://avatars3.githubusercontent.com/u/20049049?s=460&u=4c8f16d813bb6fe4b080b3dddb5f860bb8f3ab93&v=4",
+    "altAuthorName": "User: heyhayhay"
+  },
+  {
+    "id": 8,
+    "octCatLink": "https://octodex.github.com/sentrytocat/",
+    "octCatImg": "https://octodex.github.com/images/Sentrytocat_octodex.jpg",
+    "octCatName": "Sentrytocat",
+    "octCatNumber": "143:",
+    "octCatTitle": "Sentrytocat",
+    "octCatLink": "https://octodex.github.com/sentrytocat/",
+    "authorLink": "https://github.com/cameronmcefee",
+    "authorImg": "https://avatars2.githubusercontent.com/u/72919?s=400&u=842e59562a3799dca195b939372936560ea6f2ff&v=4",
+    "altAuthorName": "User: Cameronmcefee"
+  },
+  {
+    "id": 9,
+    "octCatLink": "https://octodex.github.com/umbrellatocat/",
+    "octCatImg": "https://avatars3.githubusercontent.com/u/18125109?s=400&u=5720e83d9a07b5bafe2aa01646f0cdf687790a77&v=4",
+    "octCatName": "Umbrellatocat",
+    "octCatNumber": "142:",
+    "octCatTitle": "Umbrellatocat",
+    "octCatLink": "https://octodex.github.com/umbrellatocat/",
+    "authorLink": "https://github.com/cameronmcefee",
+    "authorImg": "https://avatars2.githubusercontent.com/u/72919?s=400&u=842e59562a3799dca195b939372936560ea6f2ff&v=4",
+    "altAuthorName": "User: Cameronmcefee"
   }
 ]
